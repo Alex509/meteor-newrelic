@@ -3,6 +3,6 @@
   "description": "newrelic bindings for meteor",
   "homepage": "https://github.com/Alex509/meteor-newrelic",
   "author": "Alexey Kuznetsov (https://github.com/Alex509)",
-  "version": "1.0.",
+  "version": "1.0.5",
   "git": "https://github.com/Alex509/meteor-newrelic.git"
 }
